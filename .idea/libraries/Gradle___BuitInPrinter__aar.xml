@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :BuitInPrinter:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-BuitInPrinter.aar/014318802d985f3be9c6bace91b080df/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-BuitInPrinter.aar/014318802d985f3be9c6bace91b080df/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-BuitInPrinter.aar/014318802d985f3be9c6bace91b080df/jars/libs/zxing-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

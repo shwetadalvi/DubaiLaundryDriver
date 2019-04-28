@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AravindVijay7:GeoLocator-Android:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-GeoLocator-Android-1.0.2.aar/18ee7ed6efdf98526431ecc698fe9fb5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-GeoLocator-Android-1.0.2.aar/18ee7ed6efdf98526431ecc698fe9fb5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

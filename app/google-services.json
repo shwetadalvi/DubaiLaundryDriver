@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1089806216418",
+    "firebase_url": "https://dubai-laundry.firebaseio.com",
+    "project_id": "dubai-laundry",
+    "storage_bucket": "dubai-laundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089806216418:android:20fdb6e5e5f5cd21",
+        "android_client_info": {
+          "package_name": "admin.com.dladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089806216418-4l3sn8gdr1l1v96sjrud7b1ngou5d10q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEo9xXAKO--rd0lCznpYeKcXZHKOsesWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089806216418-4l3sn8gdr1l1v96sjrud7b1ngou5d10q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089806216418:android:9b3881f89d9b37a8",
+        "android_client_info": {
+          "package_name": "com.dldriver.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089806216418-4l3sn8gdr1l1v96sjrud7b1ngou5d10q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEo9xXAKO--rd0lCznpYeKcXZHKOsesWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089806216418-4l3sn8gdr1l1v96sjrud7b1ngou5d10q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
